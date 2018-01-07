@@ -1,9 +1,0 @@
-{
-  "name": "js",
-  "version": "1.0.0",
-  "main": "main.js",
-  "license": "MIT",
-  "dependencies": {
-    "jquery": "^3.2.1"
-  }
-}
